@@ -27,4 +27,11 @@ def part1(presents):
         if size > w*h:
             continue
         count += 1
+<<<<<<< HEAD
+=======
+
+    # Ehm, it seems this day was a joke. No need to solve some NP-Complete
+    # packing problem. Just naively look at the areas is enough.
+
+>>>>>>> 06f88e3 (Add day 12)
     return count
